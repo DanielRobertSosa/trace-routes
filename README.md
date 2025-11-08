@@ -35,13 +35,19 @@ It simulates a real-world IT Support or Cloud Networking task, showing how VPNs 
 - **Server Name or Address:** Enter the VPN server IP or domain  
 - **VPN Type:** Select `L2TP/IPSec` or `Automatic`  
 - **Sign-in Info:** Username and password (if required)
+  
+<img width="1135" height="666" alt="step 3" src="https://github.com/user-attachments/assets/7d83df01-a37c-4336-a311-c4c5f9e6ef27" />
 
 ### Step 3 — Save and Connect
 1. Click **Save**  
 2. Select your VPN → Click **Connect**  
 3. Once connected, confirm the status shows “Connected”
 
+<img width="1235" height="635" alt="trace route text executed STep 4" src="https://github.com/user-attachments/assets/90788b0a-c819-4d3f-ab78-327864256b5d" />
+
 ### Step 4 — Verify the Connection
-Open **Command Prompt** and run:
-```bash
-ipconfig
+Open **Command Prompt** and run: ipconfig
+
+ <img width="897" height="315" alt="traceouput step 5" src="https://github.com/user-attachments/assets/2fb452dd-6e1a-45d4-b371-376d0189481b" />
+
+
